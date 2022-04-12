@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+
+body {
+    font-family: Poppins, sans-serif;
+    box-sizing: border-box;
+    height: 2000px;
+    background-color: rgb(197, 40, 40);
+    margin: 0;
+}
+
+header {
+    background-color: rgb(197, 40, 40);
+}
+
+.presentation {
+    width: 80%;
+    height: 500px;
+    background-color: rgb(197, 40, 40);
+    border-radius: 20px;
+}
