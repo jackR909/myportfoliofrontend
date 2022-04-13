@@ -5,13 +5,19 @@ body {
     font-family: Poppins, sans-serif;
     box-sizing: border-box;
     height: 2000px;
-    background-color: rgb(197, 40, 40);
+    background-color: rgb(255, 255, 255);
     margin: 0;
+    background: #0692CE;
+    background: -moz-linear-gradient(top, #0692CE 0%, #C9F2FF 50%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(top, #0692CE 0%, #C9F2FF 50%, #FFFFFF 100%);
+    background: linear-gradient(to bottom, #0692CE 0%, #C9F2FF 50%, #FFFFFF 100%);
 }
 
 header {
     width: 100%;
-    background-color: rgb(197, 40, 40);
+    height: 75px;
+    background-color: #0692CE;
+    box-shadow: 5px 6px 11px 8px rgba(0,0,0,0.09);
 }
 
 .logo {
@@ -21,13 +27,21 @@ header {
 .presentation {
     padding-left: 30px;
     margin-top: 30px;
-    width: 75%;
+    width: 85%;
     height: 500px;
-    background-color: rgba(236, 157, 157, 0.5);
+    background-image: url(img/IMG_1940.JPG);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
     border-radius: 20px;
+    box-shadow: 5px 6px 11px 8px rgba(0,0,0,0.09);
 }
 
 .presentation i {
     width: auto;
     height: 50px;
+}
+
+.cardsBox {
+    width: 85%;
 }
