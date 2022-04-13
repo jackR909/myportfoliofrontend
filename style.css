@@ -42,6 +42,12 @@ header {
     height: 50px;
 }
 
+.presentation p {
+    width: 70%;
+    text-align: justify;
+}
+
 .cardsBox {
     width: 85%;
+    top: 650px;
 }
