@@ -10,12 +10,18 @@ body {
 }
 
 header {
+    width: 100%;
     background-color: rgb(197, 40, 40);
 }
 
 .presentation {
-    width: 80%;
+    width: 75%;
     height: 500px;
     background-color: rgb(197, 40, 40);
     border-radius: 20px;
+}
+
+.presentation i {
+    width: auto;
+    height: 50px;
 }
