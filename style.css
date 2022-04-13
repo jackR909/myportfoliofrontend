@@ -14,10 +14,16 @@ header {
     background-color: rgb(197, 40, 40);
 }
 
+.logo {
+    padding-left: 10px;
+}
+
 .presentation {
+    padding-left: 30px;
+    margin-top: 30px;
     width: 75%;
     height: 500px;
-    background-color: rgb(197, 40, 40);
+    background-color: rgba(236, 157, 157, 0.5);
     border-radius: 20px;
 }
 
