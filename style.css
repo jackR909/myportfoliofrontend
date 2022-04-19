@@ -53,3 +53,7 @@ header {
     width: 85%;
     top: 650px;
 }
+
+.cardsBox p {
+    text-align: justify;
+}
