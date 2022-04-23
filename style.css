@@ -57,3 +57,7 @@ header {
 .cardsBox p {
     text-align: justify;
 }
+
+html {
+    scroll-behavior: smooth;
+}
